@@ -13,7 +13,7 @@ The project features four iconic characters, each appearing in a cinematic frame
 - 🦸 Superman
 - 🦇 Batman
 - ⚡ The Flash
-- 👹 Darkseid
+- 👹 
 
 Built entirely with **HTML5 and CSS3**, the project explores CSS animations, image-filled typography, layered gradients, and visual composition without using JavaScript.
 
