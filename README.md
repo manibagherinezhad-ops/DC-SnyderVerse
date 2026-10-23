@@ -10,7 +10,7 @@
 
 The project features four iconic characters, each appearing in a cinematic frame before sliding away to make room for the next one.
 
-- 🦸 
+- 🦸 Superman
 - 🦇 Batman
 - ⚡ The Flash
 - 👹 Darkseid
