@@ -27,7 +27,7 @@ Built entirely with **HTML5 and CSS3**, the project explores CSS animations, ima
 
 ---
 
-## 🎬 
+## 🎬 Features
 
 - 🦸 **Four Iconic Characters**  
   A rotating showcase featuring Superman, Batman, The Flash, and Darkseid.
